@@ -1,0 +1,22 @@
+header{
+    display: block;
+    justify-content: center;      
+}
+
+#menu {
+    background-color: rgb(141, 143, 155)!important;
+}
+
+#navbarNav {
+    justify-content: center;  
+}
+
+#lien {
+    margin-left: 50px ;
+    color: white ;
+    
+}
+
+#lien:hover {
+    color: black;
+  }
